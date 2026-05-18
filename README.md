@@ -20,3 +20,10 @@ The script automatically detects the latest year folder, selects the newest Exce
 - glob
 - os
 - datetime
+
+---
+
+## Author  
+
+Developed by Eva Karakostas  
+M.S. Data Science | Operations Supervisor | Python Automation
