@@ -1,4 +1,4 @@
-# edi_schedule_excel_to_csv_automation
+# edi_schedule_automation
 
 Python automation script that processes customer order schedules from Excel files, transforms the data into standardized EDI-ready formats, and generates upload-ready CSV files.
 
